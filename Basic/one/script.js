@@ -3,5 +3,6 @@ function crystalGazer(jobTitle, location, partnersName, numberChildren){
 
 }
 
+console.log(crystalGazer('Programmer', 'Vienna', 'Tom', '5'));
 
-console.log(crystalGazer('Programmer', 'Vienna', 'Tom', 5));
+
